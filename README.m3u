@@ -4,3 +4,7 @@ SHILAIDAHA BAZAR - KUMARKHALI - KUSHTIA
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monirul-IPTV-2026/MONIRUL-IPTV/main/MONIRUL_FREE_IPTV_LOGO.jpg",MONIRUL FREE IPTV
 https://raw.githubusercontent.com/Monirul-IPTV-2026/MONIRUL-IPTV/main/MONIRUL_FREE_IPTV_30SEC.mp4
+
+#EXTINF:-1 tvg-id="btvhd" tvg-logo="http://monirul.bro.bd/assets/images/BTV.HD1750866438.png" group-title="Bangla",BTV.HD
+#https://btv.hridoytv-channel.workers.dev/btv.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
