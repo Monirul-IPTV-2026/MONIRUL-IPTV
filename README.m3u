@@ -89,3 +89,6 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 https://tvsen6.aynaott.com/kajlsd57jnkdf/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75",Bangla TV Europe
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8|Referer=https://ghuddi.tv/
