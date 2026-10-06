@@ -19,3 +19,7 @@ http://tvsen5.aynascope.net/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="channel_i" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
 http://livetv.akr4m.com:8080/bdtv/restrem/15.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
