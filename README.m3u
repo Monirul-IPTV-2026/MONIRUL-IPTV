@@ -14,9 +14,8 @@ http://103.135.253.32:8080/BTV/index.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=7377f7bab9e2e5f62698a765ec325756
 
-#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://monirul.bro.bd/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
-HD
-
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://monirul.bro.bd/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA HD
+http://103.135.253.32:8080/ATN-Bangla/index.m3u8
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 #EXTINF:-1 tvg-id="channel_i" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
