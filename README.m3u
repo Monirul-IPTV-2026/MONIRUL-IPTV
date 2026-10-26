@@ -183,19 +183,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
-
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
 http://103.135.253.32:8080/NICK/index.m3u8
-
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="BANGLADESH", বিটিভি নিউজ
-https://btv.hridoytv-channel.workers.dev/news.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Channel%20S.webp" group-title="BANGLADESH",Channel S
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTV+ | Bengali",Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
-#http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
