@@ -179,4 +179,6 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-chno="44"  tvg-logo="https://imgur.com/79g2kMA.png",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
+#EXTINF:-1 tvg-chno="45" tvg-name="DRAMA HD" tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",DRAMA HD
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
