@@ -124,7 +124,7 @@ https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
- #EXTINF:-1 tvg-chno="33" tvg-id="dbc_news" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/DBC%20News.webp" group-title="Bangla",DBC NEWS
+#EXTINF:-1 tvg-chno="33" tvg-id="dbc_news" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/DBC%20News.webp" group-title="Bangla",DBC NEWS
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-id="news24hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/News%2024%20HD.webp" group-title="Bangla",NEWS.24.HD
