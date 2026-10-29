@@ -182,3 +182,14 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 tvg-chno="45" tvg-name="DRAMA HD" tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",DRAMA HD
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-chno="46" tvg-name="The Movie Club" tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-chno="47" group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3476" tvg-name="Zee Bangla Sonar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="JioTV+ | Unknown",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-name="Sony YAY" tvg-logo="https://imgur.com/79g2kMA.png",Sony YAY
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="nick" tvg-name="NICK" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
+http://103.135.253.32:8080/NICK/index.m3u8
